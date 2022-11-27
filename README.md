@@ -1,7 +1,8 @@
 # ONE Oracle Next Education exercicios
 
-<p>Exercícios do curso HTML5 e CSS3 part 1,2, 3 e 4, para construção do projeto <strong>Barbearia Alura</strong></p>
+<p>Exercícios do curso HTML5 e CSS3 part 1 para construção do projeto <strong>Barbearia Alura</strong></p>
 
+<p>Projeto final:</p> 
 <h3>Conteudos aprendidos</h3>
 
 
