@@ -20,12 +20,19 @@
       <li>title</li>
       <li>head - informações</li>
       <li>body - conteúdo</li>
-    <li>html</li>
+        <li>html</li>
+        <link>
     </ul>
+    
+  <p>atributos</p>
+  <ul>
+       <li>rel</li>
+       <li>href</li>
+  </ul>  
     
  <p>propriedades</p>
     <ul>
-      <li>lang</li>
+    <li>lang</li>
     <li>charset</li>
     <li>style</li>
     <li>font-style</li>
