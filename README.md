@@ -4,10 +4,6 @@
 
 <h3>Conteudos aprendidos</h3>
 
-<p>atributos</p>
-    <ul>
-      <li>charset</li>
-    </ul>
 
 <p>tags de identificação</p>
     <ul>
@@ -24,9 +20,14 @@
       <li>title</li>
       <li>head - informações</li>
       <li>body - conteúdo</li>
+    <li>html</li>
     </ul>
     
  <p>propriedades</p>
     <ul>
       <li>lang</li>
+    <li>charset</li>
+    <li>style</li>
+    <li>font-style</li>
+    <li>text-align</li>
     </ul>
