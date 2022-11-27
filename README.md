@@ -47,4 +47,6 @@
     <li>height</li>
     <li>width</li>
     <li>list</li>
+    <li>display</li>
+    <li>inline-block</li>
     </ul>
