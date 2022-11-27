@@ -43,4 +43,6 @@
     <li>border</li>
     <li>padding</li>
     <li>margin</li>
+    <li>height</li>
+    <li>width</li>
     </ul>
