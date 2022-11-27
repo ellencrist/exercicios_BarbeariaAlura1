@@ -18,5 +18,11 @@
   <li>p</li>
   <li>strong</li>
   <li>em</li>
+  <li>meta</li>
+</ul>
+
+<p>propriedades</p>
+<ul>
+  <li>lang</li>
 </ul>
 
