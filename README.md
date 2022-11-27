@@ -28,6 +28,7 @@
   <ul>
        <li>rel</li>
        <li>href</li>
+    <li>src</li>
   </ul>  
     
  <p>propriedades</p>
@@ -39,5 +40,7 @@
     <li>text-align</li>
     <li>background</li>
     <li>color</li>
-    <li></li>
+    <li>border</li>
+    <li>padding</li>
+    <li>margin</li>
     </ul>
