@@ -23,6 +23,8 @@
       <li>html</li>
       <li>link</li>
       <li>div</li>
+      <li>li</li>
+      <li>ul</li>
     </ul>
     
   <p>atributos</p>
