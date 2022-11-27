@@ -37,4 +37,7 @@
     <li>style</li>
     <li>font-style</li>
     <li>text-align</li>
+    <li>background</li>
+    <li>color</li>
+    <li></li>
     </ul>
