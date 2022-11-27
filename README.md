@@ -20,8 +20,9 @@
       <li>title</li>
       <li>head - informações</li>
       <li>body - conteúdo</li>
-        <li>html</li>
-        <link>
+      <li>html</li>
+      <li>link</li>
+      <li>div</li>
     </ul>
     
   <p>atributos</p>
